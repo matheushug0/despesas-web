@@ -4,7 +4,7 @@
   - Criação de Despesa
   - Listagem de Despesas
   - Atualização de Despesa
-  - Deleção de Despesa
+  - Remoção de Despesa
 
 ## Conceitos e Tecnologias Usadas
 - Banco de Dados MySQL
