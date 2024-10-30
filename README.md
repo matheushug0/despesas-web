@@ -10,7 +10,8 @@
 - Banco de Dados MySQL
 - Jetty
 - Web Servlet
-- `.jsp`
+- JSP
+- JSTL
 - Bootstrap
 - Polimorfismo
 - MVC
