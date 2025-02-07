@@ -1,19 +1,19 @@
-# Projeto - Controle de Despesas
-- Desenvolvimento de uma aplicação Web Servlet a partir de uma [API previamente criada usando JDBC](https://github.com/matheushug0/crud-jdbc).
-- O projeto implementou os métodos de:
-  - Criação de Despesa
-  - Listagem de Despesas
-  - Atualização de Despesa
-  - Remoção de Despesa
+# Project - Expense Control
+- Development of a Web Servlet application based on a [previously created API using JDBC](https://github.com/matheushug0/crud-jdbc).
+- The project implemented the following methods:
+  - Expense Creation
+  - Expense Listing
+  - Expense Update
+  - Expense Removal
 
-## Conceitos e Tecnologias Usadas
-- Banco de Dados MySQL
+## Concepts and Technologies Used
+- MySQL Database
 - Jetty
 - Web Servlet
 - JSP
 - JSTL
 - Bootstrap
-- Polimorfismo
+- Polymorphism
 - MVC
 
 ## Preview
